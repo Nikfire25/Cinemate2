@@ -14,7 +14,7 @@ export const PageNotFound = () => {
           <div className="max-w-3xl">
             <img
               src={PageNotFoundImg}
-              alt="Page Not Found Image"
+              alt="Page Not Found Image illustration"
               className="rounded"
             />
           </div>
