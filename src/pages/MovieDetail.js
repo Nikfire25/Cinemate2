@@ -94,6 +94,7 @@ export const MovieDetail = () => {
             <a
               href={`https://www.imdb.com/title/${data.imdb_id}`}
               target="_blank"
+              rel="noreferrer"
             >
               <span>{data.imdb_id}</span>
             </a>
